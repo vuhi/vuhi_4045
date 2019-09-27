@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+.bg-main {
+	background: #DAF7A6;
+	color: black;
+}
+
+.center {
+	position: absolute;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+	transform: translateX(-50%);
+}
+
+.404 {
+	font-family: "Titillium Web",sans-serif;
+	font-size: 186px;
+	font-weight: 900;
+	margin: 0px;
+	text-transform:uppercase;
+}
